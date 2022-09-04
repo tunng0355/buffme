@@ -6,7 +6,7 @@
             "tungmmo\\api\\": "src/"
         },
         "files": [
-            "src/facebook.php"
+            "src/api.php"
         ]
     },
     "authors": [

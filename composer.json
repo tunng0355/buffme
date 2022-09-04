@@ -1,0 +1,19 @@
+{
+    "name": "tungmmo/buffme",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "tungmmo\\api\\": "src/"
+        },
+        "files": [
+            "src/api.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "tungmmo",
+            "email": "thanhtungktfako1@gmail.com"
+        }
+    ],
+    "require": {}
+}
